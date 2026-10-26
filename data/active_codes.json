@@ -1,0 +1,546 @@
+{
+  "total_active": 54,
+  "last_updated": "2026-10-26 23:17:10 WIB",
+  "codes": [
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "PJ2KEBRAYSRM",
+      "server": "Global",
+      "rewards": "Primogem x60, Adventurer's Experience x5",
+      "discovery_date": "2026-10-23",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "HourOfRuin",
+      "server": "Global",
+      "rewards": "Primogem x100, Mystic Enhancement Ore x10",
+      "discovery_date": "2026-10-23",
+      "expiry_date": "2026-10-26",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "ExpertMitya",
+      "server": "Global",
+      "rewards": "Primogem x100, Hero's Wit x5",
+      "discovery_date": "2026-10-23",
+      "expiry_date": "2026-10-26",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "PhotoTime",
+      "server": "Global",
+      "rewards": "Primogem x100, Mora x50000",
+      "discovery_date": "2026-10-23",
+      "expiry_date": "2026-10-26",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "OKTCV81F9H8D",
+      "server": "Global",
+      "rewards": "Mora x10000, Adventurer's Experience x10, Fine Enhancement Ore x5, Stir-Fried Fish Noodles x5, Jueyun Chili Chicken x5",
+      "discovery_date": "2026-10-14",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "6LS3F3LS5K87",
+      "server": "Global",
+      "rewards": "Primogem x20, Geode of Replication x160",
+      "discovery_date": "2026-10-02",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "DATG5HG1PL89",
+      "server": "Global",
+      "rewards": "Mora x10000, Adventurer's Experience x10, Fine Enhancement Ore x5, Stir-Fried Fish Noodles x5, Jueyun Chili Chicken x5",
+      "discovery_date": "2026-10-02",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "PNKZ3WLNN8G6",
+      "server": "Global",
+      "rewards": "Teachings of Charity x5, Teachings of Fortitude x5, Teachings of Glory x5",
+      "discovery_date": "2026-10-01",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "OPERACOLLAB",
+      "server": "Global",
+      "rewards": "Primogem x30, Mora x20000, Hero's Wit x2",
+      "discovery_date": "2026-09-28",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "EPIC2026",
+      "server": "Global",
+      "rewards": "Primogem x40, Mora x20000, Hero's Wit x5",
+      "discovery_date": "2026-09-23",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "VesnaOnPatrol",
+      "server": "Global",
+      "rewards": "Primogem x40, Mora x20000, Hero's Wit x3",
+      "discovery_date": "2026-09-23",
+      "expiry_date": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "GS71XAVWDS",
+      "server": "Global",
+      "rewards": "Mora x30000, Hero's Wit x3, Mystic Enhancement Ore x5",
+      "discovery_date": "2026-09-15",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "GS71XDYGEO",
+      "server": "Global",
+      "rewards": "Mora x30000, Hero's Wit x3, Mystic Enhancement Ore x5",
+      "discovery_date": "2026-09-15",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "GS71XYNSYJ",
+      "server": "Global",
+      "rewards": "Mora x30000, Hero's Wit x3, Mystic Enhancement Ore x5",
+      "discovery_date": "2026-09-15",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "GS71XOXYLG",
+      "server": "Global",
+      "rewards": "Mora x30000, Hero's Wit x3, Mystic Enhancement Ore x5",
+      "discovery_date": "2026-09-15",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "Y6JYMKV6JKSL",
+      "server": "Global",
+      "rewards": "Primogem x60, Adventurer's Experience x5",
+      "discovery_date": "2026-09-13",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "YOAL3V36XHS7",
+      "server": "Global",
+      "rewards": "Mora x10000, Adventurer's Experience x10, Fine Enhancement Ore x5, Jueyun Chili Chicken x5, Stir-Fried Fish Noodles x5",
+      "discovery_date": "2026-09-02",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "DUGODWKRHAKDNJ",
+      "server": "Global",
+      "rewards": "Primogem x30, Mora x10000, Hero's Wit x3, Mystic Enhancement Ore x3",
+      "discovery_date": "2026-08-31",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "BALLETCOLLAB",
+      "server": "Global",
+      "rewards": "Primogem x30, Mora x10000, Hero's Wit x3, Mystic Enhancement Ore x3",
+      "discovery_date": "2026-08-16",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "2BJ64QRZ7RT8",
+      "server": "Global",
+      "rewards": "Primogem x60, Adventurer's Experience x5",
+      "discovery_date": "2026-07-31",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "YuanShen",
+      "server": "CN",
+      "rewards": "Primogem x50, Hero's Wit x3",
+      "discovery_date": "2020-11-10",
+      "expiry_date": "indef",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "MALSV2F247FP",
+      "server": "Global",
+      "rewards": "Stellar Jade x100, Refined Aether x4",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "7S4AD2X35NE3",
+      "server": "Global",
+      "rewards": "Stellar Jade x100, Traveler's Guide x5",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "KA5SV3FJM7WX",
+      "server": "Global",
+      "rewards": "Stellar Jade x100, Credit x50000",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "NSJR3B97ZZ5X",
+      "server": "Global",
+      "rewards": "Stellar Jade x50, Credit x10000",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "YAJQ2TR6ZY2P",
+      "server": "Global",
+      "rewards": "Stellar Jade x100, Refined Aether x4",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "LSJ9JARPZH33",
+      "server": "Global",
+      "rewards": "Stellar Jade x100, Traveler's Guide x5",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "2TKRKAR6YG2X",
+      "server": "Global",
+      "rewards": "Stellar Jade x100, Credit x50000",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "STARRAILFATE2026",
+      "server": "Global",
+      "rewards": "The Fluffy Multi-Functional Fan Glowstick x2, Traveler's Guide x3, ",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "BESTCOFFEEEVER",
+      "server": "Global",
+      "rewards": "Traveler's Guide x3,  Express Special Blend: Rustic Infusion x2",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "XTJ9MV38DL3X",
+      "server": "Global",
+      "rewards": "Stellar Jade x100, Refined Aether x4",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "HT3QMCJ9U4JB",
+      "server": "Global",
+      "rewards": "Stellar Jade x100, Traveler's Guide x5",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "WAK84U29VLYP",
+      "server": "Global",
+      "rewards": "Stellar Jade x100, Credit x50000",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "OMEGA",
+      "server": "Global",
+      "rewards": "Stellar Jade x60, Fuel x1",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "CREATIONNYMPH",
+      "server": "Global",
+      "rewards": "Stellar Jade x60, Fuel x1, Heroic Variable x1",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "FAREWELL",
+      "server": "Global",
+      "rewards": "Stellar Jade x60, Fuel x1",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "IFYOUAREREADINGTHIS",
+      "server": "Global",
+      "rewards": "Stellar Jade x60, Fuel x1",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "STARRAILGIFT",
+      "server": "Global",
+      "rewards": "Stellar Jade x50, Credit x10000",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "EB395CJ8V5XF",
+      "server": "Global",
+      "rewards": "Stellar Jade x100, Refined Aether x4",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "YT295D38DLEB",
+      "server": "Global",
+      "rewards": "Stellar Jade x100, Traveler's Guide x5",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "CA395VK8ULCP",
+      "server": "Global",
+      "rewards": "Stellar Jade x100, Credit x50000",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "INKSHIFT33",
+      "server": "Global",
+      "rewards": "Polychrome x20, Denny x2,222",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "LEVELUP33",
+      "server": "Global",
+      "rewards": "Polychrome x20, Denny x2,222",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "HOLLOWRUN33",
+      "server": "Global",
+      "rewards": "Polychrome x20, Denny x2,222",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "SUNBRINGER",
+      "server": "Global",
+      "rewards": "",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "ZENLESSGIFT",
+      "server": "Global",
+      "rewards": "Polychrome x50, Official Investigator Log x2, W-Engine Power Supply x3, Bangboo Algorithm Module x1",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hi3",
+      "game_title": "Honkai Impact 3rd",
+      "code": "KS58QWGR8W",
+      "server": "Global (NA/EU)",
+      "rewards": "Asterite x500, Stamina Potion x1, HOHO Vacation Tickets x4",
+      "discovery_date": "Oct 24, 26",
+      "expiry_date": "limited",
+      "status": "active"
+    },
+    {
+      "game": "hi3",
+      "game_title": "Honkai Impact 3rd",
+      "code": "FLAVOR1",
+      "server": "Global (NA/EU)",
+      "rewards": "Asterite x200",
+      "discovery_date": "Oct 22, 26",
+      "expiry_date": "limited",
+      "status": "active"
+    },
+    {
+      "game": "hi3",
+      "game_title": "Honkai Impact 3rd",
+      "code": "FLAVOR2",
+      "server": "Global (NA/EU)",
+      "rewards": "HOHO Vacation Tickets x4",
+      "discovery_date": "Oct 22, 26",
+      "expiry_date": "limited",
+      "status": "active"
+    },
+    {
+      "game": "hi3",
+      "game_title": "Honkai Impact 3rd",
+      "code": "FLAVOR3",
+      "server": "Global (NA/EU)",
+      "rewards": "Coins x30,000",
+      "discovery_date": "Oct 22, 26",
+      "expiry_date": "limited",
+      "status": "active"
+    },
+    {
+      "game": "hi3",
+      "game_title": "Honkai Impact 3rd",
+      "code": "FLAVOR4",
+      "server": "Global (NA/EU)",
+      "rewards": "Stamina Potion x1",
+      "discovery_date": "Oct 22, 26",
+      "expiry_date": "limited",
+      "status": "active"
+    },
+    {
+      "game": "hi3",
+      "game_title": "Honkai Impact 3rd",
+      "code": "LBWY2YI5V4",
+      "server": "Global (NA/EU)",
+      "rewards": "Crystals x30, HOHO Vacation Tickets x8, Phase Shifter x1",
+      "discovery_date": "Oct 22, 26",
+      "expiry_date": "limited",
+      "status": "active"
+    },
+    {
+      "game": "hi3",
+      "game_title": "Honkai Impact 3rd",
+      "code": "NCU83WRBF2",
+      "server": "Global (NA/EU)",
+      "rewards": "Asterite x500, Stamina Potion x1, HOHO Vacation Tickets x4",
+      "discovery_date": "Oct 18, 26",
+      "expiry_date": "limited",
+      "status": "active"
+    },
+    {
+      "game": "hi3",
+      "game_title": "Honkai Impact 3rd",
+      "code": "TimeAlbum",
+      "server": "Global (NA/EU)",
+      "rewards": "Crystals x100",
+      "discovery_date": "Jun 16, 26",
+      "expiry_date": "limited",
+      "status": "active"
+    }
+  ]
+}

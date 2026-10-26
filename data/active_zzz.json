@@ -1,0 +1,57 @@
+{
+  "game": "zzz",
+  "total": 5,
+  "last_updated": "2026-10-26 23:17:10 WIB",
+  "codes": [
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "INKSHIFT33",
+      "server": "Global",
+      "rewards": "Polychrome x20, Denny x2,222",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "LEVELUP33",
+      "server": "Global",
+      "rewards": "Polychrome x20, Denny x2,222",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "HOLLOWRUN33",
+      "server": "Global",
+      "rewards": "Polychrome x20, Denny x2,222",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "SUNBRINGER",
+      "server": "Global",
+      "rewards": "",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "ZENLESSGIFT",
+      "server": "Global",
+      "rewards": "Polychrome x50, Official Investigator Log x2, W-Engine Power Supply x3, Bangboo Algorithm Module x1",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    }
+  ]
+}
