@@ -2,9 +2,8 @@ name: Auto Collect HoYo Codes
 
 on:
   schedule:
-    # Berjalan otomatis setiap 2 jam
-    - cron: '0 */2 * * *'
-  workflow_dispatch: # Memungkinkan tombol "Run workflow" manual di GitHub
+    - cron: '15,45 * * * *'
+  workflow_dispatch:
   push:
     branches:
       - main
