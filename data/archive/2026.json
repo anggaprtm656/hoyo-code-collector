@@ -1,7 +1,7 @@
 {
   "year": "2026",
-  "total_recorded": 54,
-  "last_updated": "2026-10-30 15:33:28 WIB",
+  "total_recorded": 57,
+  "last_updated": "2026-10-30 22:19:16 WIB",
   "codes": [
     {
       "game": "genshin",
@@ -541,6 +541,36 @@
       "rewards": "Crystals x100",
       "discovery_date": "Jun 16, 26",
       "expiry_date": "limited",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "AHABLESSYOU",
+      "server": "Global",
+      "rewards": "Stellar Jade x100, Refined Aether x4",
+      "discovery_date": "2026-10-30",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "NEVERGONNAMAKE",
+      "server": "Global",
+      "rewards": "Stellar Jade x100, Traveler's Guide x5",
+      "discovery_date": "2026-10-30",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "NEVERGONNAGIVE",
+      "server": "Global",
+      "rewards": "",
+      "discovery_date": "2026-10-30",
+      "expiry_date": "unknown",
       "status": "active"
     }
   ]

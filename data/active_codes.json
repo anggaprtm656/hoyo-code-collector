@@ -1,6 +1,6 @@
 {
   "total_active": 54,
-  "last_updated": "2026-10-30 15:33:28 WIB",
+  "last_updated": "2026-10-30 22:19:16 WIB",
   "codes": [
     {
       "game": "genshin",
@@ -215,6 +215,36 @@
     {
       "game": "hsr",
       "game_title": "Honkai: Star Rail",
+      "code": "AHABLESSYOU",
+      "server": "Global",
+      "rewards": "Stellar Jade x100, Refined Aether x4",
+      "discovery_date": "2026-10-30",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "NEVERGONNAMAKE",
+      "server": "Global",
+      "rewards": "Stellar Jade x100, Traveler's Guide x5",
+      "discovery_date": "2026-10-30",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "NEVERGONNAGIVE",
+      "server": "Global",
+      "rewards": "",
+      "discovery_date": "2026-10-30",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
       "code": "MALSV2F247FP",
       "server": "Global",
       "rewards": "Stellar Jade x100, Refined Aether x4",
@@ -378,36 +408,6 @@
       "code": "STARRAILGIFT",
       "server": "Global",
       "rewards": "Stellar Jade x50, Credit x10000",
-      "discovery_date": "",
-      "expiry_date": "unknown",
-      "status": "active"
-    },
-    {
-      "game": "hsr",
-      "game_title": "Honkai: Star Rail",
-      "code": "EB395CJ8V5XF",
-      "server": "Global",
-      "rewards": "Stellar Jade x100, Refined Aether x4",
-      "discovery_date": "",
-      "expiry_date": "unknown",
-      "status": "active"
-    },
-    {
-      "game": "hsr",
-      "game_title": "Honkai: Star Rail",
-      "code": "YT295D38DLEB",
-      "server": "Global",
-      "rewards": "Stellar Jade x100, Traveler's Guide x5",
-      "discovery_date": "",
-      "expiry_date": "unknown",
-      "status": "active"
-    },
-    {
-      "game": "hsr",
-      "game_title": "Honkai: Star Rail",
-      "code": "CA395VK8ULCP",
-      "server": "Global",
-      "rewards": "Stellar Jade x100, Credit x50000",
       "discovery_date": "",
       "expiry_date": "unknown",
       "status": "active"
