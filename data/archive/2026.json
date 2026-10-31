@@ -1,7 +1,7 @@
 {
   "year": "2026",
-  "total_recorded": 57,
-  "last_updated": "2026-11-01 02:31:45 WIB",
+  "total_recorded": 59,
+  "last_updated": "2026-11-01 05:48:41 WIB",
   "codes": [
     {
       "game": "genshin",
@@ -571,6 +571,26 @@
       "rewards": "",
       "discovery_date": "2026-10-30",
       "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hi3",
+      "game_title": "Honkai Impact 3rd",
+      "code": "QPAS261QC8",
+      "server": "Global (NA/EU)",
+      "rewards": "Asterite x500, Stamina Potion x1, HOHO Vacation Tickets x4",
+      "discovery_date": "Oct 31, 26",
+      "expiry_date": "limited",
+      "status": "active"
+    },
+    {
+      "game": "hi3",
+      "game_title": "Honkai Impact 3rd",
+      "code": "SPECIALTREATS",
+      "server": "Global (NA/EU)",
+      "rewards": "Crystals x150",
+      "discovery_date": "Oct 31, 26",
+      "expiry_date": "limited",
       "status": "active"
     }
   ]
