@@ -1,7 +1,37 @@
 {
-  "total_active": 55,
-  "last_updated": "2026-11-04 13:09:11 WIB",
+  "total_active": 58,
+  "last_updated": "2026-11-04 21:24:39 WIB",
   "codes": [
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "KeepUpWithMitya",
+      "server": "Global",
+      "rewards": "Guide to Charity x3, \"Energy-Replenishing Meal\" x3, Kristallfold x3",
+      "discovery_date": "2026-11-04",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "MIJIQ23V2437",
+      "server": "Global",
+      "rewards": "Mora x10000, Adventurer's Experience x10, Fine Enhancement Ore x5, Stir-Fried Fish Noodles x5, Jueyun Chili Chicken x5",
+      "discovery_date": "2026-11-04",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "CDOF4X83H7X2",
+      "server": "Global",
+      "rewards": "Mora x10000, Adventurer's Experience x10, Fine Enhancement Ore x5, Stir-Fried Fish Noodles x5, Jueyun Chili Chicken x5",
+      "discovery_date": "2026-11-04",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
     {
       "game": "genshin",
       "game_title": "Genshin Impact",
