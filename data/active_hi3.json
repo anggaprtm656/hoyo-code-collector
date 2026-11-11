@@ -1,8 +1,18 @@
 {
   "game": "hi3",
-  "total": 9,
-  "last_updated": "2026-11-12 00:26:49 WIB",
+  "total": 10,
+  "last_updated": "2026-11-12 06:42:21 WIB",
   "codes": [
+    {
+      "game": "hi3",
+      "game_title": "Honkai Impact 3rd",
+      "code": "ZBL0W0QI8T",
+      "server": "Global (NA/EU)",
+      "rewards": "Asterite x500, Stamina Potion x1, HOHO Vacation Tickets x4",
+      "discovery_date": "Nov 11, 26",
+      "expiry_date": "limited",
+      "status": "active"
+    },
     {
       "game": "hi3",
       "game_title": "Honkai Impact 3rd",

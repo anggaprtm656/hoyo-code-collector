@@ -1,7 +1,7 @@
 {
   "year": "2026",
-  "total_recorded": 62,
-  "last_updated": "2026-11-12 00:26:49 WIB",
+  "total_recorded": 63,
+  "last_updated": "2026-11-12 06:42:21 WIB",
   "codes": [
     {
       "game": "genshin",
@@ -621,6 +621,16 @@
       "rewards": "Mora x10000, Adventurer's Experience x10, Fine Enhancement Ore x5, Stir-Fried Fish Noodles x5, Jueyun Chili Chicken x5",
       "discovery_date": "2026-11-04",
       "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hi3",
+      "game_title": "Honkai Impact 3rd",
+      "code": "ZBL0W0QI8T",
+      "server": "Global (NA/EU)",
+      "rewards": "Asterite x500, Stamina Potion x1, HOHO Vacation Tickets x4",
+      "discovery_date": "Nov 11, 26",
+      "expiry_date": "limited",
       "status": "active"
     }
   ]
