@@ -1,7 +1,7 @@
 {
   "year": "2026",
-  "total_recorded": 63,
-  "last_updated": "2026-11-14 05:12:10 WIB",
+  "total_recorded": 64,
+  "last_updated": "2026-11-14 09:24:07 WIB",
   "codes": [
     {
       "game": "genshin",
@@ -631,6 +631,16 @@
       "rewards": "Asterite x500, Stamina Potion x1, HOHO Vacation Tickets x4",
       "discovery_date": "Nov 11, 26",
       "expiry_date": "limited",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "QYJWFB784MFL",
+      "server": "Global",
+      "rewards": "Primogem x60, Adventurer's Experience x5",
+      "discovery_date": "2026-11-08",
+      "expiry_date": "unknown",
       "status": "active"
     }
   ]
