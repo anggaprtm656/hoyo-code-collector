@@ -1,7 +1,7 @@
 {
   "year": "2026",
-  "total_recorded": 64,
-  "last_updated": "2026-11-16 06:56:43 WIB",
+  "total_recorded": 65,
+  "last_updated": "2026-11-16 13:17:45 WIB",
   "codes": [
     {
       "game": "genshin",
@@ -641,6 +641,16 @@
       "rewards": "Primogem x60, Adventurer's Experience x5",
       "discovery_date": "2026-11-08",
       "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "ArchonsAnswers",
+      "server": "Global",
+      "rewards": "Primogem x40, Hero's Wit x3, Mora x30,000",
+      "discovery_date": "2026-11-15",
+      "expiry_date": "2026-11-26",
       "status": "active"
     }
   ]
