@@ -1,8 +1,58 @@
 {
   "game": "hsr",
   "total": 20,
-  "last_updated": "2026-11-18 15:30:10 WIB",
+  "last_updated": "2026-11-19 00:30:49 WIB",
   "codes": [
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "OMEGA",
+      "server": "Global",
+      "rewards": "Stellar Jade x60, Fuel x1",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "CREATIONNYMPH",
+      "server": "Global",
+      "rewards": "Stellar Jade x60, Fuel x1, Heroic Variable x1",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "FAREWELL",
+      "server": "Global",
+      "rewards": "Stellar Jade x60, Fuel x1",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "IFYOUAREREADINGTHIS",
+      "server": "Global",
+      "rewards": "Stellar Jade x60, Fuel x1",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "hsr",
+      "game_title": "Honkai: Star Rail",
+      "code": "STARRAILGIFT",
+      "server": "Global",
+      "rewards": "Stellar Jade x50, Credit x10000",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
     {
       "game": "hsr",
       "game_title": "Honkai: Star Rail",
@@ -149,56 +199,6 @@
       "code": "WAK84U29VLYP",
       "server": "Global",
       "rewards": "Stellar Jade x100, Credit x50000",
-      "discovery_date": "",
-      "expiry_date": "unknown",
-      "status": "active"
-    },
-    {
-      "game": "hsr",
-      "game_title": "Honkai: Star Rail",
-      "code": "OMEGA",
-      "server": "Global",
-      "rewards": "Stellar Jade x60, Fuel x1",
-      "discovery_date": "",
-      "expiry_date": "unknown",
-      "status": "active"
-    },
-    {
-      "game": "hsr",
-      "game_title": "Honkai: Star Rail",
-      "code": "CREATIONNYMPH",
-      "server": "Global",
-      "rewards": "Stellar Jade x60, Fuel x1, Heroic Variable x1",
-      "discovery_date": "",
-      "expiry_date": "unknown",
-      "status": "active"
-    },
-    {
-      "game": "hsr",
-      "game_title": "Honkai: Star Rail",
-      "code": "FAREWELL",
-      "server": "Global",
-      "rewards": "Stellar Jade x60, Fuel x1",
-      "discovery_date": "",
-      "expiry_date": "unknown",
-      "status": "active"
-    },
-    {
-      "game": "hsr",
-      "game_title": "Honkai: Star Rail",
-      "code": "IFYOUAREREADINGTHIS",
-      "server": "Global",
-      "rewards": "Stellar Jade x60, Fuel x1",
-      "discovery_date": "",
-      "expiry_date": "unknown",
-      "status": "active"
-    },
-    {
-      "game": "hsr",
-      "game_title": "Honkai: Star Rail",
-      "code": "STARRAILGIFT",
-      "server": "Global",
-      "rewards": "Stellar Jade x50, Credit x10000",
       "discovery_date": "",
       "expiry_date": "unknown",
       "status": "active"
