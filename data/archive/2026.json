@@ -1,7 +1,7 @@
 {
   "year": "2026",
-  "total_recorded": 65,
-  "last_updated": "2026-11-20 10:06:05 WIB",
+  "total_recorded": 67,
+  "last_updated": "2026-11-20 18:26:35 WIB",
   "codes": [
     {
       "game": "genshin",
@@ -651,6 +651,26 @@
       "rewards": "Primogem x40, Hero's Wit x3, Mora x30,000",
       "discovery_date": "2026-11-15",
       "expiry_date": "2026-11-26",
+      "status": "active"
+    },
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "POYMANSXF877",
+      "server": "Global",
+      "rewards": "Primogem x20, Geode of Replication x160",
+      "discovery_date": "2026-11-20",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "SUNCHASER",
+      "server": "Global",
+      "rewards": "",
+      "discovery_date": "",
+      "expiry_date": "unknown",
       "status": "active"
     }
   ]

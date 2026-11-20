@@ -1,8 +1,18 @@
 {
   "game": "zzz",
-  "total": 5,
-  "last_updated": "2026-11-20 10:06:05 WIB",
+  "total": 6,
+  "last_updated": "2026-11-20 18:26:35 WIB",
   "codes": [
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "SUNCHASER",
+      "server": "Global",
+      "rewards": "",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
     {
       "game": "zzz",
       "game_title": "Zenless Zone Zero",

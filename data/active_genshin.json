@@ -1,8 +1,18 @@
 {
   "game": "genshin",
-  "total": 26,
-  "last_updated": "2026-11-20 10:06:05 WIB",
+  "total": 27,
+  "last_updated": "2026-11-20 18:26:35 WIB",
   "codes": [
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "POYMANSXF877",
+      "server": "Global",
+      "rewards": "Primogem x20, Geode of Replication x160",
+      "discovery_date": "2026-11-20",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
     {
       "game": "genshin",
       "game_title": "Genshin Impact",

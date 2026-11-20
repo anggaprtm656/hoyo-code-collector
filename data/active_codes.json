@@ -1,7 +1,17 @@
 {
-  "total_active": 60,
-  "last_updated": "2026-11-20 10:06:05 WIB",
+  "total_active": 62,
+  "last_updated": "2026-11-20 18:26:35 WIB",
   "codes": [
+    {
+      "game": "genshin",
+      "game_title": "Genshin Impact",
+      "code": "POYMANSXF877",
+      "server": "Global",
+      "rewards": "Primogem x20, Geode of Replication x160",
+      "discovery_date": "2026-11-20",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
     {
       "game": "genshin",
       "game_title": "Genshin Impact",
@@ -458,6 +468,16 @@
       "code": "WAK84U29VLYP",
       "server": "Global",
       "rewards": "Stellar Jade x100, Credit x50000",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "SUNCHASER",
+      "server": "Global",
+      "rewards": "",
       "discovery_date": "",
       "expiry_date": "unknown",
       "status": "active"
