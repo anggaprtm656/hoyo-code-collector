@@ -1,7 +1,7 @@
 {
   "year": "2026",
-  "total_recorded": 67,
-  "last_updated": "2026-11-21 07:48:30 WIB",
+  "total_recorded": 72,
+  "last_updated": "2026-11-21 15:14:24 WIB",
   "codes": [
     {
       "game": "genshin",
@@ -669,6 +669,56 @@
       "code": "SUNCHASER",
       "server": "Global",
       "rewards": "",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "INKSHIFT34",
+      "server": "Global",
+      "rewards": "Polychrome x20, Denny x2,222",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "LEVELUP34",
+      "server": "Global",
+      "rewards": "Polychrome x20, Denny x2,222",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "HOLLOWRUN34",
+      "server": "Global",
+      "rewards": "Polychrome x20, Denny x2,222",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "ZZZ34SUNBRINGER",
+      "server": "Global",
+      "rewards": "Polychrome x60, Denny x6,666",
+      "discovery_date": "",
+      "expiry_date": "unknown",
+      "status": "active"
+    },
+    {
+      "game": "zzz",
+      "game_title": "Zenless Zone Zero",
+      "code": "ZZZHSRCOLLAB",
+      "server": "Global",
+      "rewards": "Polychrome x50",
       "discovery_date": "",
       "expiry_date": "unknown",
       "status": "active"
