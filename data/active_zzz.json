@@ -1,7 +1,7 @@
 {
   "game": "zzz",
-  "total": 11,
-  "last_updated": "2026-11-23 19:22:08 WIB",
+  "total": 9,
+  "last_updated": "2026-11-24 07:20:26 WIB",
   "codes": [
     {
       "game": "zzz",
@@ -56,16 +56,6 @@
     {
       "game": "zzz",
       "game_title": "Zenless Zone Zero",
-      "code": "SUNCHASER",
-      "server": "Global",
-      "rewards": "",
-      "discovery_date": "",
-      "expiry_date": "unknown",
-      "status": "active"
-    },
-    {
-      "game": "zzz",
-      "game_title": "Zenless Zone Zero",
       "code": "INKSHIFT33",
       "server": "Global",
       "rewards": "Polychrome x20, Denny x2,222",
@@ -89,16 +79,6 @@
       "code": "HOLLOWRUN33",
       "server": "Global",
       "rewards": "Polychrome x20, Denny x2,222",
-      "discovery_date": "",
-      "expiry_date": "unknown",
-      "status": "active"
-    },
-    {
-      "game": "zzz",
-      "game_title": "Zenless Zone Zero",
-      "code": "SUNBRINGER",
-      "server": "Global",
-      "rewards": "",
       "discovery_date": "",
       "expiry_date": "unknown",
       "status": "active"
