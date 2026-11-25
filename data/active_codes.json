@@ -1,6 +1,6 @@
 {
-  "total_active": 46,
-  "last_updated": "2026-11-25 03:51:54 WIB",
+  "total_active": 44,
+  "last_updated": "2026-11-25 11:08:23 WIB",
   "codes": [
     {
       "game": "genshin",
@@ -405,16 +405,6 @@
     {
       "game": "hi3",
       "game_title": "Honkai Impact 3rd",
-      "code": "KS58QWGR8W",
-      "server": "Global (NA/EU)",
-      "rewards": "Asterite x500, Stamina Potion x1, HOHO Vacation Tickets x4",
-      "discovery_date": "Oct 24, 26",
-      "expiry_date": "limited",
-      "status": "active"
-    },
-    {
-      "game": "hi3",
-      "game_title": "Honkai Impact 3rd",
       "code": "FLAVOR1",
       "server": "Global (NA/EU)",
       "rewards": "Asterite x200",
@@ -448,16 +438,6 @@
       "code": "FLAVOR4",
       "server": "Global (NA/EU)",
       "rewards": "Stamina Potion x1",
-      "discovery_date": "Oct 22, 26",
-      "expiry_date": "limited",
-      "status": "active"
-    },
-    {
-      "game": "hi3",
-      "game_title": "Honkai Impact 3rd",
-      "code": "LBWY2YI5V4",
-      "server": "Global (NA/EU)",
-      "rewards": "Crystals x30, HOHO Vacation Tickets x8, Phase Shifter x1",
       "discovery_date": "Oct 22, 26",
       "expiry_date": "limited",
       "status": "active"
